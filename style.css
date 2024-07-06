@@ -1,0 +1,49 @@
+body{
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color: rgb(60, 187, 109);
+}
+li{
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 50px;
+    float: right;
+    font-weight: bolder;
+    
+}
+li:hover{
+    color: blue;
+    font-size: x-large;
+    text-transform: capitalize;
+    animation-delay: 3s;
+}
+p{
+    line-height: 35px;
+    font-size: larger;
+}
+#ceo{
+    display: inline-block;
+    width: 600px;
+    height: 500px;
+    margin-left: 350px;
+    margin-right: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+header{
+background-color: rgb(178, 201, 143);
+;
+}
+h1{
+    color: green;
+}
+div{
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#group{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 1000px;
+    height: 700px;
+align-content: center;
